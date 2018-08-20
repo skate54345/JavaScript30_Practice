@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://cdn.pixabay.com/photo/2016/11/19/13/57/drum-set-1839383_960_720.jpg) bottom center;
   background-size: cover;
 }
 body,html {
@@ -27,7 +27,7 @@ body,html {
   width: 10rem;
   text-align: center;
   color: white;
-  background: rgba(0,0,0,0.4);
+  background: rgba(0,0,0,0.5);
   text-shadow: 0 0 .5rem black;
 }
 
